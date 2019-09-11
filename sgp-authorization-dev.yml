@@ -1,3 +1,4 @@
+foo: test1
 eureka:
   client:
     serviceUrl:
